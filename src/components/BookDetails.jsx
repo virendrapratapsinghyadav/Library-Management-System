@@ -18,7 +18,7 @@ const BookDetails = ({ book, onClose, onUpdate }) => {
         <p className="mb-1"><strong>Added on:</strong> {book.date}</p>
         {onUpdate ? (
           <>
-            <label className="block mb-1 mt-2">Price:</label>
+            <label className="block mb-1 mt-2">Price :</label>
             <input type="number" value={price} onChange={(e) => setPrice(e.target.value)} className="p-2 border rounded w-full mb-2" />
             <label className="block mb-1">Quantity Left:</label>
             <input type="number" value={quantityLeft} onChange={(e) => setQuantityLeft(e.target.value)} className="p-2 border rounded w-full mb-2" />
