@@ -1,3 +1,60 @@
+# Library Management System
+
+A simple and modern **React.js** web application for managing books, built using **Vite**, **Tailwind CSS**, and **localStorage**. It includes features to add, search, delete, and filter books.
+
+---
+
+##  Features
+
+-  Add new books
+-  Search and filter books
+-  Delete books
+-  Data persists using localStorage
+-  Fast build with Vite
+-  Responsive UI using Tailwind CSS
+
+---
+### Screenshots
+![Login](screenshots/login.png)
+![Student Dashboard](student-dash.png)
+![Student book UI](student-ui.png)
+![Admin Dashboard](admin-dash.png)
+![Admin book UI](admin-ui.png)
+   
+
+----
+
+##  Tech Stack
+
+- **React.js** (with Hooks)
+- **Vite** (Build Tool)
+- **Tailwind CSS** (Styling)
+- **localStorage** (Persistence)
+- **GitHub Pages** (Deployment)
+
+---
+
+##  Project Structure
+
+Library-Management-System/
+├── public/
+│ └── favicon.svg
+├── src/
+│ ├── components/
+│ │ ├── AddBookForm.jsx
+│ │ ├── BookList.jsx
+│ │ └── SearchBar.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
