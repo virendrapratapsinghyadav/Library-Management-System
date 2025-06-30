@@ -18,7 +18,7 @@ A simple and modern **React.js** web application for managing books, built using
 ![Login](src/screenshots/login.png)
 ![Student Dashboard](src/student-dash.png)
 ![Student book UI](src/student-ui.png)
-![Admin Dashboard](src/admin-dash.png)
+![Admin Dashboard](src/adminDash.png)
 ![Admin book UI](src/admin-ui.png)
    
 
