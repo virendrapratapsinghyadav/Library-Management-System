@@ -16,10 +16,10 @@ A simple and modern **React.js** web application for managing books, built using
 ---
 ### Screenshots
 ![Login](src/screenshots/login.png)
-![Student Dashboard](student-dash.png)
-![Student book UI](student-ui.png)
-![Admin Dashboard](admin-dash.png)
-![Admin book UI](admin-ui.png)
+![Student Dashboard](src/student-dash.png)
+![Student book UI](src/student-ui.png)
+![Admin Dashboard](src/admin-dash.png)
+![Admin book UI](src/admin-ui.png)
    
 
 ----
